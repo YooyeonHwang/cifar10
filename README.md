@@ -1,6 +1,6 @@
 # cifar10
 모델 설계해보기
-<u>필요한 모듈을 import해준다.</u>
+++1. 필요한 모듈을 import해준다.++
 <pre><code>
 from __future__ import print_function
 import keras
