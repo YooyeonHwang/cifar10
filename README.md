@@ -1,2 +1,2 @@
-# start
-open a new account
+# cifar10
+모델 설계해보기
